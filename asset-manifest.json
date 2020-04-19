@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/opendata_web_test/static/css/main.1bfcc921.chunk.css",
+    "main.js": "/opendata_web_test/static/js/main.57fa2535.chunk.js",
+    "main.js.map": "/opendata_web_test/static/js/main.57fa2535.chunk.js.map",
+    "runtime-main.js": "/opendata_web_test/static/js/runtime-main.f2d56a1d.js",
+    "runtime-main.js.map": "/opendata_web_test/static/js/runtime-main.f2d56a1d.js.map",
+    "static/js/2.cc525c66.chunk.js": "/opendata_web_test/static/js/2.cc525c66.chunk.js",
+    "static/js/2.cc525c66.chunk.js.map": "/opendata_web_test/static/js/2.cc525c66.chunk.js.map",
+    "index.html": "/opendata_web_test/index.html",
+    "precache-manifest.5df0596dba77fbccdecdceef2675c24f.js": "/opendata_web_test/precache-manifest.5df0596dba77fbccdecdceef2675c24f.js",
+    "service-worker.js": "/opendata_web_test/service-worker.js",
+    "static/css/main.1bfcc921.chunk.css.map": "/opendata_web_test/static/css/main.1bfcc921.chunk.css.map",
+    "static/js/2.cc525c66.chunk.js.LICENSE.txt": "/opendata_web_test/static/js/2.cc525c66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2d56a1d.js",
+    "static/js/2.cc525c66.chunk.js",
+    "static/css/main.1bfcc921.chunk.css",
+    "static/js/main.57fa2535.chunk.js"
+  ]
+}
