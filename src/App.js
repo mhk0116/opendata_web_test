@@ -56,7 +56,14 @@ class App extends Component {
               <p>
                 설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명
               </p>
-              <iframe width="5000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMy2W0dD2-zzEezUwgcYSosS9nCNZTmVZOQjF64BwTLU2RQF9EeTVLP7mf-a03Fg_RJVXXvNYNEnIJ/pubchart?oid=2102374876&amp;format=interactive"></iframe>
+              <iframe
+                width="5000"
+                height="500"
+                seamless
+                frameborder="0"
+                scrolling="no"
+                src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMy2W0dD2-zzEezUwgcYSosS9nCNZTmVZOQjF64BwTLU2RQF9EeTVLP7mf-a03Fg_RJVXXvNYNEnIJ/pubchart?oid=2102374876&amp;format=interactive"
+              ></iframe>
             </div>
           </div>
         </article>
